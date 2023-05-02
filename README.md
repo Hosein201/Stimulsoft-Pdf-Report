@@ -2,5 +2,5 @@
 Stimulsoft-Pdf-Report
 
 #.net7
-# Console app
+#console app
 #report run time
